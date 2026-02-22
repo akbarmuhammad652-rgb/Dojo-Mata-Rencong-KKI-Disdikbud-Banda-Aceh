@@ -1,1 +1,1 @@
-DATA KOHAI
+gem "github-pages", group: :jekyll_pluginsI
